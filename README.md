@@ -1,6 +1,6 @@
 # 🎮 Video Game Sales EDA
 
-## 📌 Overview
+## Overview
 This project explores video game sales data across various regions (NA, EU, JP, etc.) to understand platform, genre, and publisher performance trends.
 
 ## Tools Used
