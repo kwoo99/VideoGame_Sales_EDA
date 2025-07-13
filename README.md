@@ -8,7 +8,7 @@ This project explores video game sales data across various regions (NA, EU, JP, 
 - GitHub for version control and documentation
 
 ## Key Questions Explored
-- What are the most popular game genres and platforms in each region?
+- What are the most successful game genres and platforms in each region?
 - Which publishers consistently perform best?
 - Are there regional preferences in game types?
 - Which region contributes most to global sales?
